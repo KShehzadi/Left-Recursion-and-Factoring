@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Left factoring and recursion", "Left factoring and recursion\Left factoring and recursion.csproj", "{C8751894-229F-43F4-A7D1-1CC1FABCA56D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8751894-229F-43F4-A7D1-1CC1FABCA56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8751894-229F-43F4-A7D1-1CC1FABCA56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8751894-229F-43F4-A7D1-1CC1FABCA56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8751894-229F-43F4-A7D1-1CC1FABCA56D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {715E753D-FBA4-4387-AA25-8404061CDA3D}
+	EndGlobalSection
+EndGlobal

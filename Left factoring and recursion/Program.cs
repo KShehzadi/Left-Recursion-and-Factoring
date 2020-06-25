@@ -49,9 +49,9 @@ namespace Left_factoring_and_recursion
             System.Console.ReadKey();
         }
         // shared vairiables
-        const string Path = @"D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\komal\input.txt";
+        const string Path = @"D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\input and output directory\input.txt";
         private static StreamReader inputfileReader = new StreamReader(Path);
-        private static FileStream outputfilepath = new FileStream(@"D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\komal\output.txt", FileMode.OpenOrCreate, FileAccess.Write);
+        private static FileStream outputfilepath = new FileStream(@"D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\input and output directory\output.txt", FileMode.OpenOrCreate, FileAccess.Write);
         private static StreamWriter outfile = new StreamWriter(outputfilepath);
 
         // function to write to a file at outputfilepath

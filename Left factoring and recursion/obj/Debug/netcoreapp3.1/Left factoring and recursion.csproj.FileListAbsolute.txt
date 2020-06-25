@@ -11,3 +11,16 @@ C:\Users\DC\source\repos\Left factoring and recursion\Left factoring and recursi
 C:\Users\DC\source\repos\Left factoring and recursion\Left factoring and recursion\obj\Debug\netcoreapp3.1\Left factoring and recursion.pdb
 C:\Users\DC\source\repos\Left factoring and recursion\Left factoring and recursion\obj\Debug\netcoreapp3.1\Left factoring and recursion.genruntimeconfig.cache
 C:\Users\DC\source\repos\Left factoring and recursion\Left factoring and recursion\obj\Debug\netcoreapp3.1\Left factoring and recursion.csproj.CoreCompileInputs.cache
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\bin\Debug\netcoreapp3.1\Left factoring and recursion.exe
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\bin\Debug\netcoreapp3.1\Left factoring and recursion.deps.json
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\bin\Debug\netcoreapp3.1\Left factoring and recursion.runtimeconfig.json
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\bin\Debug\netcoreapp3.1\Left factoring and recursion.runtimeconfig.dev.json
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\bin\Debug\netcoreapp3.1\Left factoring and recursion.dll
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\bin\Debug\netcoreapp3.1\Left factoring and recursion.pdb
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\obj\Debug\netcoreapp3.1\Left factoring and recursion.csprojAssemblyReference.cache
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\obj\Debug\netcoreapp3.1\Left factoring and recursion.csproj.CoreCompileInputs.cache
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\obj\Debug\netcoreapp3.1\Left factoring and recursion.AssemblyInfoInputs.cache
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\obj\Debug\netcoreapp3.1\Left factoring and recursion.AssemblyInfo.cs
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\obj\Debug\netcoreapp3.1\Left factoring and recursion.dll
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\obj\Debug\netcoreapp3.1\Left factoring and recursion.pdb
+D:\1A Semesters\8th semester\CC\Left Recursion and Factoring\code\Left factoring and recursion\obj\Debug\netcoreapp3.1\Left factoring and recursion.genruntimeconfig.cache

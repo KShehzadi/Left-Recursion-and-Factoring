@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DC\\source\\repos\\Left factoring and recursion\\Left factoring and recursion\\Left factoring and recursion.csproj": {}
+    "D:\\1A Semesters\\8th semester\\CC\\Left Recursion and Factoring\\code\\Left factoring and recursion\\Left factoring and recursion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DC\\source\\repos\\Left factoring and recursion\\Left factoring and recursion\\Left factoring and recursion.csproj": {
+    "D:\\1A Semesters\\8th semester\\CC\\Left Recursion and Factoring\\code\\Left factoring and recursion\\Left factoring and recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DC\\source\\repos\\Left factoring and recursion\\Left factoring and recursion\\Left factoring and recursion.csproj",
+        "projectUniqueName": "D:\\1A Semesters\\8th semester\\CC\\Left Recursion and Factoring\\code\\Left factoring and recursion\\Left factoring and recursion.csproj",
         "projectName": "Left factoring and recursion",
-        "projectPath": "C:\\Users\\DC\\source\\repos\\Left factoring and recursion\\Left factoring and recursion\\Left factoring and recursion.csproj",
+        "projectPath": "D:\\1A Semesters\\8th semester\\CC\\Left Recursion and Factoring\\code\\Left factoring and recursion\\Left factoring and recursion.csproj",
         "packagesPath": "C:\\Users\\DC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DC\\source\\repos\\Left factoring and recursion\\Left factoring and recursion\\obj\\",
+        "outputPath": "D:\\1A Semesters\\8th semester\\CC\\Left Recursion and Factoring\\code\\Left factoring and recursion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,3 +1,6 @@
+A -> A | B
+X -> id | id B
+Y -> Y a | absolon
 program -> programid ( identifier_list ) ; declarations subprogram_declarations compound_statement .
 identifier_list -> id | identifier_list , id
 declarations -> declarations var identifier_list : type ;
